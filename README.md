@@ -1,13 +1,13 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQH-zkB5FRKgtw/profile-displaybackgroundimage-shrink_350_1400/0/1663788661252?e=1683763200&v=beta&t=-Bl0YCxrcU4OEImdsHtIT8RrPVhAz2-2w17P4wodTEU)
 <h1 align="center">Hi 👋, I'm Yash Purwar</h1>
-<h3 align="center">A passionate Website Developer from India</h3>
+<h3 align="center"><b>A passionate Website Developer from India</b></h3>
 <h3></h3>
 <h3></h3>
 
 
 
 
-<img align="right" alt="Coding" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qfyauip6qqc7n7alga8r00khoimwsw91nvgh2p36&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="380px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qfyauip6qqc7n7alga8r00khoimwsw91nvgh2p36&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Hostel & Mess project for my university.**
 
