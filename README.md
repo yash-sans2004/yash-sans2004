@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="Coding" width="380px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qfyauip6qqc7n7alga8r00khoimwsw91nvgh2p36&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="340px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qfyauip6qqc7n7alga8r00khoimwsw91nvgh2p36&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Hostel & Mess project for my university.**
 
